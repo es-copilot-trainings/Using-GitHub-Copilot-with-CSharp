@@ -27,7 +27,7 @@ By the end of this module, you'll acquire the skills to be able to:
  
 [Clone this repository](https://github.com/es-copilot-trainings/dotnet-copilot)
 
-The "**GitHub Codespaces ♥️ .NET 8**" repository builds a Weather API using Minimal APIs, opens Swagger so you can call and test the API, and displays the data in a web application using Blazor with .NET 8.
+The "**GitHub ♥️ .NET**" repository builds a Weather API using Minimal APIs, opens Swagger so you can call and test the API, and displays the data in a web application using Blazor with .NET 8.
 
 We will review the steps to update the Weather BackEnd App by adding a new endpoint that requests a specific location and returns the weather forecast for that location.
 
