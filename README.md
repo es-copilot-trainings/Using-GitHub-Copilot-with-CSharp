@@ -23,7 +23,7 @@ By the end of this module, you'll acquire the skills to be able to:
 
 ## 💪🏽 Exercise
 
-**Right click the following Codespaces button to open your Codespace in a new tab**
+**Right click the following link to open the repository in a new tab**
  
 [Clone this repository](https://github.com/github/dotnet-codespaces)
 
