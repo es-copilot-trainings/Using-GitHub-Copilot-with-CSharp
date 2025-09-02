@@ -38,11 +38,9 @@ We will review the steps to update the Weather BackEnd App by adding a new endpo
 - Trigger and refine Copilot completions
 - Use inline chat and slash commands
 
-Once your Codespace launches, you'll have a fully functional development environment with the entire repository preloaded. This is the perfect time to explore GitHub Copilot Chat to help you better understand the codebase.
-
 To get started:
 
-1. Click the Copilot Chat icon in the top-right corner of the Codespace window:
+1. Click the Copilot Chat icon in the top-right corner of the window:
 
 <div align="left">
 <img src="./images/001-chat.jpg" alt="Open GitHub Copilot Chat">
@@ -234,10 +232,10 @@ For this step in the workshop, agent mode should have taken several minutes to c
 
 Agent Mode confirmed that all tests are passing and that the application follows modern ASP.NET best practices with a focus on separation of concerns and test coverage. 
 
-3. Finally, verify that the changes and new endpoint are working by starting the BackEnd project from the 'Run and Debug' panel. Once the project is running, test the original URL using your Codespace URL and original endpoint:
+3. Finally, verify that the changes and new endpoint are working by starting the BackEnd project from the 'Run and Debug' panel. Once the project is running, test the original URL using your localhost URL and original endpoint:
 
 ```bash
-https://< your codespace url >.app.github.dev/WeatherForecast
+http://localhost:8080/WeatherForecast
 ```
 
 🚀Congratulations! Now you understand the power behind Agent Mode and the many tasks that it can help with. Scroll down to the next section that will show you how to add context and customization to Copilot. 
