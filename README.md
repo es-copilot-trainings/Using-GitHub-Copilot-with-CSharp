@@ -25,7 +25,7 @@ By the end of this module, you'll acquire the skills to be able to:
 
 **Right click the following link to open the repository in a new tab**
  
-[Clone this repository](https://github.com/es-copilot-trainings/dotnet-copilot)
+[Open App directory](./app)
 
 The "**GitHub ♥️ .NET**" repository builds a Weather API using Minimal APIs, opens Swagger so you can call and test the API, and displays the data in a web application using Blazor with .NET 8.
 
