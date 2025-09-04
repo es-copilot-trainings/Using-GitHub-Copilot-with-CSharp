@@ -6,6 +6,14 @@ This repo builds a Weather API, OpenAPI integration to test with [Scalar](https:
 
 We've given you both a frontend and backend to play around with and where you go from here is up to you!
 
+## Prerequisites
+
+Before getting started, make sure you have the following tools and versions installed:
+
+- **.NET 9.0 SDK** - This application targets .NET 9.0
+  - Download from: [https://dotnet.microsoft.com/download/dotnet/9.0](https://dotnet.microsoft.com/download/dotnet/9.0)
+  - Verify installation: `dotnet --version` (should show 9.0.x or higher)
+
 ### Run Options
  
 1. Clone the repo to your local machine `git clone https://github.com/es-copilot-trainings/dotnet-copilot`
